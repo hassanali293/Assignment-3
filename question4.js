@@ -1,4 +1,4 @@
-const name = "Muhammad Hassan Ali";
+const name = "M Hassan Ali";
 const age = 24;
 
 if (age >= 18) {
