@@ -1,4 +1,4 @@
-var Temperature = 72;
-var celsius = (Temperature - 32) * (5 / 9);
+var temperature = 72;
+var celsius =((temperature - 32) * (5 / 9));
 
-console.log(celsius);
+console.log(`${temperature} temperature convert to ${celsius} celsius`);
